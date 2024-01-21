@@ -3,7 +3,7 @@ In this exercise, we will learn how to collaborate edit a file in Github. You sh
 
 # Instructions
 1. Fork this repository to your own account. 
-- You can do this by clicking the `Fork` button on the top right corner of this page. 
+- Click  the `Fork` button on the top right corner of this page. 
 - After forking, you should see a new repository in your account with the same name as this repository.
 2. In your forked repository, edit the file `students.md`. 
 - Copy and paste the template text and add your name and introduction below the template.
