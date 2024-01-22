@@ -19,3 +19,10 @@ I am Wong Ho Wai.
 [My Github page](https://polyulabs.github.io/starterv2-richardw2024/)
 
 === Do not modify the content above===
+
+## Wong Chun Kit
+I am Wong Chun Kit
+
+[My Github account](https://github.com/23000633g)
+
+=== Do not modify the content above===
