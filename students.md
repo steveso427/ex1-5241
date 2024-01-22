@@ -1,7 +1,13 @@
 === Do not modify the content below ===
-new things here
 
+## [Add your name here]
+[Briefly introduce yourself]
 
-This is the new things
+[My Github account](http://www.github.com/put-your-github-username-here/)
 
-new thing here 2
+[Include the link of you Github page here using the syntax shown above]
+
+=== Do not modify the content above===
+
+=== Copy the above template and paste below and edit it ===
+
