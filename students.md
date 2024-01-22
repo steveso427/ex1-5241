@@ -10,7 +10,7 @@
 
 === Copy the above template and paste below and edit it ==
 
-This is just a test
+This is just a test 2
 
 
 
