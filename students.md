@@ -43,11 +43,20 @@ I am Chan Hong Nam.
 
 === Do not modify the content above===
 
+
+## Tam Sze Kit
+I am Tam Sze Kit.
+
+[My Github account](http://www.github.com/kezJasonT/)
+
+[My Github Page](http://polyulabs.github.io/starterv2-kezJasonT/)
+
 ## Cher Chun Ho
 I am Cher Chun Ho.
 
 [My Github account](https://github.com/polyumax)
 
 [My Github page](https://polyulabs.github.io/starterv2-polyumax/)
+
 
 === Do not modify the content above===
