@@ -35,3 +35,12 @@ I am Chan Hong Nam.
 [My Github page](https://polyulabs.github.io/starterv2-AntonyChanhn/)
 
 === Do not modify the content above===
+
+## Cher Chun Ho
+I am Cher Chun Ho.
+
+[My Github account](https://github.com/polyumax)
+
+[My Github page](https://polyulabs.github.io/starterv2-polyumax/)
+
+=== Do not modify the content above===
