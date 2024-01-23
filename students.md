@@ -26,3 +26,12 @@ I am Wong Chun Kit
 [My Github account](https://github.com/23000633g)
 
 === Do not modify the content above===
+
+## Chan Hong Nam
+I am Chan Hong Nam.
+
+[My Github account](https://github.com/AntonyChanhn)
+
+[My Github page](https://polyulabs.github.io/starterv2-AntonyChanhn/)
+
+=== Do not modify the content above===
