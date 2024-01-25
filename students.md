@@ -70,3 +70,12 @@ I am LIU Huanzi.
 
 
 === Do not modify the content above===
+
+## WONG Yin Kuen
+I am Wong Yin Kuen.
+
+[My Github account](https://github.com/CherryWYK)
+
+[My Github page](https://polyulabs.github.io/starterv2-CherryWYK/)
+
+=== Do not modify the content above===
