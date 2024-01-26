@@ -87,3 +87,13 @@ I am Kok Tsz Ho.
 
 
 === Do not modify the content above===
+
+## Chan Tsz Kin
+I am Bruce.
+
+[My Github account](https://github.com/brucechan2020)
+
+[My Github page](https://polyulabs.github.io/starterv2-brucechan2020/)
+
+
+=== Do not modify the content above===
