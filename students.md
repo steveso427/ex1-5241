@@ -106,3 +106,21 @@ Hello, I am ZHONG Jing.
 [My Github page](https://polyulabs.github.io/starterv2-23061534G/)
 
 === Do not modify the content above===
+
+## CHENG Weijia
+I am CHENG Weijia.
+
+[My Github account](https://github.com/23048747g)
+
+[My Github page](https://polyulabs.github.io/starterv2-23048747g/)
+
+## Phoebe Fung
+I am Phoebe
+
+[My Github account](https://github.com/23000046g)
+
+[My Github page](https://github.com/polyulabs/starterv2-23000046g-phoebe-intro)
+
+
+=== Do not modify the content above===
+
