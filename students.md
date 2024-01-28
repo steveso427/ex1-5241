@@ -121,6 +121,11 @@ I am Phoebe
 
 [My Github page](https://github.com/polyulabs/starterv2-23000046g-phoebe-intro)
 
+## JIN Zhendong
+I am JIN Zhendong.
 
+[My Github account](https://github.com/Andy-King2)
+
+[My Github page](https://polyulabs.github.io/starterv2-Andy-King2/)
 === Do not modify the content above===
 
