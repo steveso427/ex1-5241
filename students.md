@@ -32,6 +32,8 @@ I am Wong Chun Kit
 
 [My Github account](https://github.com/23000633g)
 
+[My Github page](https://polyulabs.github.io/starterv2-23000633g/)
+
 === Do not modify the content above===
 
 ## Chan Hong Nam
