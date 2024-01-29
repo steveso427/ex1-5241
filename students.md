@@ -129,7 +129,7 @@ I am Bowen  Xiao
 
 [My Github account](https://github.com/Cathyyy0728)
 
-[My Github page](https://github.com/polyulabs/starterv2-23000046g-phoebe-intro)
+[My Github page](https://polyulabs.github.io/starterv2-Cathyyy0728/)
 
 === Do not modify the content above===
 
