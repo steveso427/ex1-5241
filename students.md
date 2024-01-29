@@ -85,6 +85,14 @@ I am Kok Tsz Ho.
 
 [My Github page](https://polyulabs.github.io/starterv2-zelcakok-22004159G/)
 
+=== Do not modify the content above===
+
+## MO Siu Man
+I am Mo Siu Man.
+
+[My Github account](http://www.github.com/siumanmo/)
+
+[My Github page](https://polyulabs.github.io/starterv2-siumanmo/)
 
 === Do not modify the content above===
 
@@ -119,10 +127,29 @@ I am Phoebe
 
 [My Github account](https://github.com/23000046g)
 
-[My Github page](https://github.com/polyulabs/starterv2-23000046g-phoebe-intro)
+## Tsui Tsz Him
+I am Anthony
 
+[My Github account](https://github.com/anthony-tsui)
+
+[Include the link of you Github page here using the syntax shown above]
 
 === Do not modify the content above===
+
+
+## RAN Yaolong
+I am RAN
+
+[My Github account](https://github.com/ran-2012)
+
+## JIN Zhendong
+I am JIN Zhendong.
+
+[My Github account](https://github.com/Andy-King2)
+
+[My Github page](https://polyulabs.github.io/starterv2-Andy-King2/)
+=== Do not modify the content above===
+
 
 ## Bowen Xiao
 I am Bowen  Xiao
@@ -134,3 +161,22 @@ I am Bowen  Xiao
 === Do not modify the content above===
 
 
+
+## Lam Wan Kin
+Hi! I am George Lam.
+
+[My Github account](https://github.com/LAM-WanKin)
+
+[My Github page](https://polyulabs.github.io/starterv2-LAM-WanKin/)
+
+=== Do not modify the content above===
+[My Github page](https://polyulabs.github.io/starterv2-anthony-tsui/)
+
+=== Do not modify the content above===
+
+## JIANG Zao
+Hello!
+
+[My Github account](http://www.github.com/oiuytrew/)
+
+[My Github page](https://polyulabs.github.io/starterv2-oiuytrew/)
