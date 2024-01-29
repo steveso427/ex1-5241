@@ -149,8 +149,7 @@ Hi! I am George Lam.
 
 [My Github page](https://polyulabs.github.io/starterv2-LAM-WanKin/)
 
-
+=== Do not modify the content above===
 [My Github page](https://polyulabs.github.io/starterv2-anthony-tsui/)
-
 
 === Do not modify the content above===
