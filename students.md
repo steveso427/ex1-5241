@@ -128,14 +128,24 @@ I am Anthony
 
 === Do not modify the content above===
 
-[My Github page](https://polyulabs.github.io/starterv2-anthony-tsui/)
-
-
-=== Do not modify the content above===
 
 ## RAN Yaolong
 I am RAN
 
 [My Github account](https://github.com/ran-2012)
+
+
+=== Do not modify the content above===
+
+## Lam Wan Kin
+Hi! I am George Lam.
+
+[My Github account](https://github.com/LAM-WanKin)
+
+[My Github page](https://polyulabs.github.io/starterv2-LAM-WanKin/)
+
+
+[My Github page](https://polyulabs.github.io/starterv2-anthony-tsui/)
+
 
 === Do not modify the content above===
