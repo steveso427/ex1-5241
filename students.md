@@ -134,7 +134,12 @@ I am RAN
 
 [My Github account](https://github.com/ran-2012)
 
+## JIN Zhendong
+I am JIN Zhendong.
 
+[My Github account](https://github.com/Andy-King2)
+
+[My Github page](https://polyulabs.github.io/starterv2-Andy-King2/)
 === Do not modify the content above===
 
 ## Lam Wan Kin
