@@ -127,6 +127,5 @@ I am Xavier.
 
 [My Github account](http://www.github.com/xaviernhy/)
 
-[Include the link of you Github page here using the syntax shown above]
-
+[My Github page](https://github.com/polyulabs/starterv2-xaviernhy)
 === Do not modify the content above===
